@@ -5,7 +5,7 @@
  * Date: 2015/7/27
  * Time: 15:59
  */
-echo "aa";
-echo "bb";
-echo "cc";
+
+$a = true;
+var_dump($a);
 ?>
