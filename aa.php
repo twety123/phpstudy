@@ -6,5 +6,6 @@
 </head>
 <body>
 <? echo "aa"; ?>
+aa
 </body>
 </html>
