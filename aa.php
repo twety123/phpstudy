@@ -7,5 +7,7 @@
  */
 
 $a = true;
-var_dump($a);
+$b=1;
+$c=$a+$b;
+var_dump($c);
 ?>
