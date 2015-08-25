@@ -1,13 +1,10 @@
-<?php
-/**
- * Created by PhpStorm.
- * User: Administrator
- * Date: 2015/7/27
- * Time: 15:59
- */
-
-$a = true;
-$b=1;
-$c=$a+$b;
-var_dump($c);
-?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<? echo "aa"; ?>
+</body>
+</html>
